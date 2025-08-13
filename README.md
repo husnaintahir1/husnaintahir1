@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I’m a **Senior Software Engineer** specializing in **JavaScript**, **React.js**, **Node.js**, and **AWS Cloud**. With a strong focus on delivering scalable, high-performance solutions, I have a proven track record of leading teams and creating impactful projects across various domains.
 
 ---
-## 🛠️ **Skillset with Icons**
+## 🛠️ **Skillset**
 
 ### Programming Languages & Frameworks
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
